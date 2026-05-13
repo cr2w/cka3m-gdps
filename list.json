@@ -11,5 +11,23 @@
       "thumbnailUrl": null
     }
   ],
-  "completions": []
+  "completions": [
+    {
+      "player": "sodeky",
+      "levelId": "1778658099509",
+      "percentage": 13,
+      "videoLink": null,
+      "date": "2026-05-13T07:43:24.438Z"
+    }
+  ],
+  "players": {
+    "sodeky": {
+      "name": "sodeky",
+      "joinDate": "2026-05-13T07:43:24.438Z",
+      "stats": {
+        "totalCompletions": 0,
+        "hardestLevel": null
+      }
+    }
+  }
 }
