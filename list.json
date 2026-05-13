@@ -11,11 +11,27 @@
       "thumbnailUrl": null
     }
   ],
-  "completions": [],
+  "completions": [
+    {
+      "player": "test",
+      "levelId": "1778659641692",
+      "percentage": 15,
+      "videoLink": "https://www.youtube.com/watch?v=HloxKQJRgIo",
+      "date": "2026-05-13T08:07:51.484Z"
+    }
+  ],
   "players": {
     "sodeky": {
       "name": "sodeky",
       "joinDate": "2026-05-13T07:43:24.438Z",
+      "stats": {
+        "totalCompletions": 0,
+        "hardestLevel": null
+      }
+    },
+    "test": {
+      "name": "test",
+      "joinDate": "2026-05-13T08:07:51.484Z",
       "stats": {
         "totalCompletions": 0,
         "hardestLevel": null
