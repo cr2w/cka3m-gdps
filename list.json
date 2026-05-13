@@ -9,12 +9,16 @@
       "video": "https://www.youtube.com/watch?v=jryiCenBfww"
     }
   ],
-  "players": {},
-  "submissions": [
-    {
-      "player": "test3",
-      "levelId": "2jfn5hbxe",
-      "video": "https://www.youtube.com/watch?v=jryiCenBfww"
+  "players": {
+    "test3": {
+      "name": "test3",
+      "clears": [
+        {
+          "id": "2jfn5hbxe",
+          "video": "https://www.youtube.com/watch?v=jryiCenBfww"
+        }
+      ]
     }
-  ]
+  },
+  "submissions": []
 }
