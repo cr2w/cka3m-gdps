@@ -10,5 +10,11 @@
     }
   ],
   "players": {},
-  "submissions": []
+  "submissions": [
+    {
+      "player": "test3",
+      "levelId": "2jfn5hbxe",
+      "video": "https://www.youtube.com/watch?v=jryiCenBfww"
+    }
+  ]
 }
