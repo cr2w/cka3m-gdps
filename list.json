@@ -1,4 +1,15 @@
- {
-       "levels": [],
-       "completions": []
- }
+{
+  "levels": [
+    {
+      "id": "1778658099509",
+      "name": "asd",
+      "creator": "asd",
+      "levelId": "asd",
+      "completionLink": null,
+      "thumbnail": "https://raw.githubusercontent.com/cr2w/cka3m-gdps/main/images/level_1778658095167_u_1055263209_808240996_fm_253_app_120_f_jpeg.jpg",
+      "rank": 1,
+      "thumbnailUrl": null
+    }
+  ],
+  "completions": []
+}
