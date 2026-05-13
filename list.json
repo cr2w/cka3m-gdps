@@ -1,5 +1,16 @@
 {
-  "levels": [],
+  "levels": [
+    {
+      "id": "1778659641692",
+      "name": "asd",
+      "creator": "asd",
+      "levelId": "2",
+      "completionLink": "https://www.youtube.com/watch?v=HloxKQJRgIo",
+      "thumbnail": "https://raw.githubusercontent.com/cr2w/cka3m-gdps/main/images/level_1778659637770_1163999536_spitiedaway1.jpg.b6e331da0f44e6cddff6a5579ca95a11.jpg",
+      "rank": 1,
+      "thumbnailUrl": null
+    }
+  ],
   "completions": [],
   "players": {
     "sodeky": {
