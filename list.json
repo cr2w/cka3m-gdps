@@ -17,6 +17,15 @@
       "thumb": "https://raw.githubusercontent.com/cr2w/cka3m-gdps/main/images/level_1778760888066.jpg",
       "video": "https://youtu.be/QCP9bjDO1ZA",
       "slug": "hi5"
+    },
+    {
+      "id": "mp5hgwou",
+      "name": "lowkey",
+      "creator": "42gg",
+      "gdId": "140329294",
+      "thumb": "https://raw.githubusercontent.com/cr2w/cka3m-gdps/main/images/level_1778762904027.jpg",
+      "video": "https://youtu.be/WBm0xK9MzIk",
+      "slug": "lowkey"
     }
   ],
   "players": {
@@ -28,6 +37,12 @@
           "video": "https://youtu.be/aDq_4xhE9gw",
           "completedAt": 1778758439698,
           "progress": 100
+        },
+        {
+          "id": "mp5g8kp0",
+          "video": "",
+          "completedAt": 1778761134749,
+          "progress": 100
         }
       ]
     },
@@ -38,12 +53,6 @@
           "id": "mp5g8kp0",
           "video": "https://youtu.be/QCP9bjDO1ZA",
           "completedAt": 1778760929496,
-          "progress": 100
-        },
-        {
-          "id": "mp5eq4se",
-          "video": "https://youtu.be/SDd2Dr10ub4",
-          "completedAt": 1778761273860,
           "progress": 100
         }
       ]
