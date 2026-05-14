@@ -39,16 +39,15 @@
           "video": "https://youtu.be/QCP9bjDO1ZA",
           "completedAt": 1778760929496,
           "progress": 100
+        },
+        {
+          "id": "mp5eq4se",
+          "video": "https://youtu.be/SDd2Dr10ub4",
+          "completedAt": 1778761273860,
+          "progress": 100
         }
       ]
     }
   },
-  "submissions": [
-    {
-      "player": "cnaw",
-      "levelId": "mp5eq4se",
-      "video": "https://youtu.be/SDd2Dr10ub4",
-      "progress": 100
-    }
-  ]
+  "submissions": []
 }
