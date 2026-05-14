@@ -10,13 +10,18 @@
       "slug": "welcome-to-cka3m"
     }
   ],
-  "players": {},
-  "submissions": [
-    {
-      "player": "42gg",
-      "levelId": "mp5eq4se",
-      "video": "https://youtu.be/aDq_4xhE9gw",
-      "progress": 100
+  "players": {
+    "42gg": {
+      "name": "42gg",
+      "clears": [
+        {
+          "id": "mp5eq4se",
+          "video": "https://youtu.be/aDq_4xhE9gw",
+          "completedAt": 1778758439698,
+          "progress": 100
+        }
+      ]
     }
-  ]
+  },
+  "submissions": []
 }
