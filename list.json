@@ -58,5 +58,12 @@
       ]
     }
   },
-  "submissions": []
+  "submissions": [
+    {
+      "player": "42gg",
+      "levelId": "mp5hgwou",
+      "video": "https://youtu.be/WBm0xK9MzIk",
+      "progress": 100
+    }
+  ]
 }
