@@ -1,17 +1,5 @@
 {
   "levels": [],
-  "players": {
-    "test3": {
-      "name": "test3",
-      "clears": [
-        {
-          "id": "2jfn5hbxe",
-          "video": "",
-          "completedAt": 1778690607931,
-          "progress": 100
-        }
-      ]
-    }
-  },
+  "players": {},
   "submissions": []
 }
