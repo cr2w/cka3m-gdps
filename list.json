@@ -43,6 +43,12 @@
           "video": "",
           "completedAt": 1778761134749,
           "progress": 100
+        },
+        {
+          "id": "mp5hgwou",
+          "video": "https://youtu.be/WBm0xK9MzIk",
+          "completedAt": 1778762926037,
+          "progress": 100
         }
       ]
     },
@@ -58,12 +64,5 @@
       ]
     }
   },
-  "submissions": [
-    {
-      "player": "42gg",
-      "levelId": "mp5hgwou",
-      "video": "https://youtu.be/WBm0xK9MzIk",
-      "progress": 100
-    }
-  ]
+  "submissions": []
 }
