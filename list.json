@@ -30,14 +30,18 @@
           "progress": 100
         }
       ]
+    },
+    "cnaw": {
+      "name": "cnaw",
+      "clears": [
+        {
+          "id": "mp5g8kp0",
+          "video": "https://youtu.be/QCP9bjDO1ZA",
+          "completedAt": 1778760929496,
+          "progress": 100
+        }
+      ]
     }
   },
-  "submissions": [
-    {
-      "player": "cnaw",
-      "levelId": "mp5g8kp0",
-      "video": "https://youtu.be/QCP9bjDO1ZA",
-      "progress": 100
-    }
-  ]
+  "submissions": []
 }
