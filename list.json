@@ -43,5 +43,12 @@
       ]
     }
   },
-  "submissions": []
+  "submissions": [
+    {
+      "player": "42gg",
+      "levelId": "mp5g8kp0",
+      "video": "",
+      "progress": 100
+    }
+  ]
 }
