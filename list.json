@@ -32,5 +32,12 @@
       ]
     }
   },
-  "submissions": []
+  "submissions": [
+    {
+      "player": "cnaw",
+      "levelId": "mp5g8kp0",
+      "video": "https://youtu.be/QCP9bjDO1ZA",
+      "progress": 100
+    }
+  ]
 }
