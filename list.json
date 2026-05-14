@@ -21,14 +21,18 @@
           "progress": 100
         }
       ]
+    },
+    "craw": {
+      "name": "craw",
+      "clears": [
+        {
+          "id": "2jfn5hbxe",
+          "video": "",
+          "completedAt": 1778744030109,
+          "progress": 657
+        }
+      ]
     }
   },
-  "submissions": [
-    {
-      "player": "craw",
-      "levelId": "2jfn5hbxe",
-      "video": "",
-      "progress": 657
-    }
-  ]
+  "submissions": []
 }
